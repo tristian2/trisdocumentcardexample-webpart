@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "documentcardexample-webpart-client-side-solution",
+    "id": "6aefbeef-d0d9-4bb2-8b1a-ce4144356882",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/documentcardexample-webpart.spapp"
+  }
+}
